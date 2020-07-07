@@ -1,0 +1,15 @@
+# Config Details
+user_info:
+    role: 
+    user: 
+    password: 
+    account: 
+
+storage:
+    database: 
+    log_schema: 
+    dwh_schema: 
+
+computing:
+    virtual_wh: 
+    
