@@ -1,0 +1,9 @@
+To get the list of dependencies of any python code.
+
+1.  Make sure you have the command line client installed (eg. Anaconda)
+2.  First need to install the command pipreqs on the machine
+                pip install pipreqs
+    Note: this command will install the pipreqs command on the system.
+3.  Now, using the pipreqs command, we will find the dependencies of the given python code in a file named requirements.txt
+                pipreqs "D:\Project\ETL Monitoring\Updated_20200520\prescriptive_marketing-Data-Monitoring (1)\prescriptive_marketing-Data-Monitoring\Data_Monitoring"
+    Note: the successful execution of above command will create a requirements.txt file in the same working directory.
